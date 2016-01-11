@@ -1,0 +1,6 @@
+.DS_Store
+client/
+server/
+lib/
+public/
+README.md
